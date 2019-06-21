@@ -18,13 +18,13 @@ Build a series of Scatter Plots to showcase the following relationships:
 ![](Images/Latitude_Temperature.png )
 
 #### Humidity (%) vs. Latitude
-![](Images/Humidity Vs Latitude .png)
+![](Images/Humidity Vs Latitude.png)
 
 #### Cloudiness (%) vs. Latitude
-![](Images/Cloudiness(%) Vs Latitude .png)
+![](Images/Cloudiness(%) Vs Latitude.png)
 
 #### Wind Speed (mph) vs. Latitude
-![](Images/Wind Speed (mph) Vs Latitude .png)
+![](Images/Wind Speed (mph) Vs Latitude.png)
 
 
 The final notebook must:
