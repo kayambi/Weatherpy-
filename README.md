@@ -15,16 +15,16 @@
 Build a series of Scatter Plots to showcase the following relationships:
 
 #### Temperature (F) vs. Latitude
-![](Images/Latitude_Temperature.png )
+![](Images/City_Latitude_vs_Max_Temperature.png)
 
 #### Humidity (%) vs. Latitude
-![](Images/Humidity Vs Latitude.png)
+![](Images/City_Latitude_vs_Humidity.png)
 
 #### Cloudiness (%) vs. Latitude
-![](Images/Cloudiness(%) Vs Latitude.png)
+![](Images/City_Latitude_vs_Cloudiness.png)
 
 #### Wind Speed (mph) vs. Latitude
-![](Images/Wind Speed (mph) Vs Latitude.png)
+![](Images/City_Latitude_vs_Wind_Speed.png)
 
 
 The final notebook must:
